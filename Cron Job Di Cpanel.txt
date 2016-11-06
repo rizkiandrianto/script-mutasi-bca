@@ -1,0 +1,9 @@
+1. Masuk Ke Akun cPanel Kalian Masing-Masing
+2. Klik Cron Jobs
+3. Isi ''Common Setting'' Dengan Waktu Yang Di Ingginkan
+4. Pada Command Isi Dengan :
+"php -q /home/user_name_anda/public_html/nama_file.php"
+.
+Contoh : Apabila Nama File Kita Robot.php Maka Kita Setting :"php -q /home/user_name_anda/public_html/robot.php"
+.
+Nb : Tanpa Tanda "
